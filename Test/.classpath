@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/HyunWoo/WebContent/WEB-INF/lib/mysql-connector-java-5.1.48-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/36175/Desktop/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="jxbrowser-7.4.jar"/>
+	<classpathentry kind="lib" path="jxbrowser-javafx-7.4.jar"/>
+	<classpathentry kind="lib" path="jxbrowser-swing-7.4.jar"/>
+	<classpathentry kind="lib" path="jxbrowser-win64-7.4.jar"/>
+	<classpathentry kind="lib" path="gson-2.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
